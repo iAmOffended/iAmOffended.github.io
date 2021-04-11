@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Nutella Pie",
+    "name": "MAP",
     "ingredients": [
       {
         "quantity": 2,
-        "measure": "CUP",
-        "ingredient": "Graham Cracker crumbs"
+        "measure": "CSE",
+        "ingredient": "Prof. SRN Reddy"
       },
       {
         "quantity": 6,
-        "measure": "TBLSP",
-        "ingredient": "unsalted butter, melted"
+        "measure": "CSE",
+        "ingredient": "Miss. Sanskriti"
       },
       {
         "quantity": 0.5,
@@ -52,8 +52,8 @@
     "steps": [
       {
         "id": 0,
-        "shortDescription": "Recipe Introduction",
-        "description": "Recipe Introduction",
+        "shortDescription": "Introduction",
+        "description": "lorem ipsum",
         "videoURL": "https://youtu.be/b5i_mQReNus",
         "thumbnailURL": ""
       },
