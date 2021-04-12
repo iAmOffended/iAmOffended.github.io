@@ -78,8 +78,8 @@
         "faculty": "Ms. Monika Choudhary"
       },
       {
-        "quantity": 308,
-        "measure": "CSE",
+        "code": 308,
+        "department": "CSE",
         "faculty": "Ms. XYZ ABC"
       }
     ],
