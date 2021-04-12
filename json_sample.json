@@ -2,382 +2,382 @@
   {
     "id": 1,
     "name": "MAP",
-    "ingredients": [
+    "faculties": [
       {
-        "quantity": 302,
-        "measure": "CSE",
-        "ingredient": "Prof. SRN Reddy"
+        "code": 302,
+        "department": "CSE",
+        "faculty": "Prof. SRN Reddy"
       },
       {
-        "quantity": 302,
-        "measure": "CSE",
-        "ingredient": "Miss. Sanskriti"
+        "code": 302,
+        "department": "CSE",
+        "faculty": "Miss. Sanskriti"
       }
     ],
-    "steps": [
+    "topics": [
       {
         "id": 0,
         "shortDescription": "Introduction",
-        "description": "lorem ipsum",
+        "subTopic": "lorem ipsum",
         "videoURL": "https://youtu.be/b5i_mQReNus",
         "thumbnailURL": ""
       },
       {
         "id": 1,
-        "shortDescription": "Android",
+        "subTopic": "Android",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 2,
-        "shortDescription": "iOS.",
+        "subTopic": "iOS.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffd9a6_2-mix-sugar-crackers-creampie/2-mix-sugar-crackers-creampie.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 3,
-        "shortDescription": "Windows Phone",
+        "subTopic": "Windows Phone",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffd9cb_4-press-crumbs-in-pie-plate-creampie/4-press-crumbs-in-pie-plate-creampie.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 4,
-        "shortDescription": "SoC",
+        "subTopic": "SoC",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffd97a_1-mix-marscapone-nutella-creampie/1-mix-marscapone-nutella-creampie.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 5,
-        "shortDescription": "Raspberry Pi",
+        "subTopic": "Raspberry Pi",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffda20_7-add-cream-mix-creampie/7-add-cream-mix-creampie.mp4"
       },
       {
         "id": 6,
-        "shortDescription": "GSM",
+        "subTopic": "GSM",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffda45_9-add-mixed-nutella-to-crust-creampie/9-add-mixed-nutella-to-crust-creampie.mp4",
         "thumbnailURL": ""
       }
     ],
-    "servings": 8,
+    "duration": 8,
     "image": ""
   },
   {
     "id": 2,
     "name": "Cloud Computing",
-    "ingredients": [
+    "faculties": [
       {
         "quantity": 308,
-        "measure": "CSE",
-        "ingredient": "Ms. Monika Choudhary"
+        "department": "CSE",
+        "faculty": "Ms. Monika Choudhary"
       },
       {
         "quantity": 308,
         "measure": "CSE",
-        "ingredient": "Ms. Peanut Gupta"
+        "faculty": "Ms. Peanut Gupta"
       }
     ],
-    "steps": [
+    "topics": [
       {
         "id": 0,
-        "shortDescription": "Introduction",
+        "subTopic": "Introduction",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdc33_-intro-brownies/-intro-brownies.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 1,
-        "shortDescription": "Cloud",
+        "subTopic": "Cloud",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 2,
-        "shortDescription": "Types of Computing",
+        "subTopic": "Types of Computing",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdc43_1-melt-choclate-chips-and-butter-brownies/1-melt-choclate-chips-and-butter-brownies.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 3,
-        "shortDescription": "Public Cloud",
+        "subTopic": "Public Cloud",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 4,
-        "shortDescription": "Private Cloud",
+        "subTopic": "Private Cloud",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdc9e_4-sift-flower-add-coco-powder-salt-brownies/4-sift-flower-add-coco-powder-salt-brownies.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 5,
-        "shortDescription": "Hybrid Cloud",
+        "subTopic": "Hybrid Cloud",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdc62_2-mix-egss-with-choclate-butter-brownies/2-mix-egss-with-choclate-butter-brownies.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 6,
-        "shortDescription": "Community Cloud",
+        "subTopic": "Community Cloud",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdcc8_5-mix-wet-and-cry-batter-together-brownies/5-mix-wet-and-cry-batter-together-brownies.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 7,
-        "shortDescription": "AWS",
+        "subTopic": "AWS",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdcf4_8-put-brownies-in-oven-to-bake-brownies/8-put-brownies-in-oven-to-bake-brownies.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 8,
-        "shortDescription": "Salesforce",
+        "subTopic": "Salesforce",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 9,
-        "shortDescription": "Google",
+        "subTopic": "Google",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdcf9_9-final-product-brownies/9-final-product-brownies.mp4",
         "thumbnailURL": ""
       }
     ],
-    "servings": 8,
+    "duration": 8,
     "image": ""
   },
   {
     "id": 3,
     "name": "Compiler Design",
-    "ingredients": [
+    "faculties": [
       {
-        "quantity": 211,
-        "measure": "CSE",
-        "ingredient": "Mr. Ravinder Singh"
+        "code": 211,
+        "department": "CSE",
+        "facultyt": "Mr. Ravinder Singh"
       },
       {
-        "quantity": 211,
-        "measure": "IT",
-        "ingredient": "Mr.Bojack Horseman"
+        "code": 211,
+        "department": "IT",
+        "faculty": "Mr.Bojack Horseman"
       }
     ],
-    "steps": [
+    "topics": [
       {
         "id": 0,
-        "shortDescription": "Introduction",
+        "subTopic": "Introduction",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffddf0_-intro-yellow-cake/-intro-yellow-cake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 1,
-        "shortDescription": "Stages of Compiler",
+        "subTopic": "Stages of Compiler",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 2,
-        "shortDescription": "Lexical Analyzer",
+        "subTopic": "Lexical Analyzer",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffde28_1-mix-all-dry-ingredients-yellow-cake/1-mix-all-dry-ingredients-yellow-cake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 3,
-        "shortDescription": "Semantic Analyzer",
+        "subTopic": "Semantic Analyzer",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffde36_2-mix-all-wet-ingredients-yellow-cake/2-mix-all-wet-ingredients-yellow-cake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 4,
-        "shortDescription": "LL1 Parser",
+        "subTopic": "LL1 Parser",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 5,
-        "shortDescription": "LR0 Parser",
+        "subTopic": "LR0 Parser",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffde36_2-mix-all-wet-ingredients-yellow-cake/2-mix-all-wet-ingredients-yellow-cake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 6,
-        "shortDescription": "SR1 Parser",
+        "subTopic": "SR1 Parser",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffde43_5-add-mixed-batter-to-baking-pans-yellow-cake/5-add-mixed-batter-to-baking-pans-yellow-cake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 8,
-        "shortDescription": "SL1 Parser",
+        "subTopic": "SL1 Parser",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 9,
-        "shortDescription": "Shift Reduce Parser.",
+        "subTopic": "Shift Reduce Parser.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/5901299d_6-srir-egg-whites-for-frosting-yellow-cake/6-srir-egg-whites-for-frosting-yellow-cake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 10,
-        "shortDescription": "Recursive Parser",
+        "subTopic": "Recursive Parser",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 11,
-        "shortDescription": "Ambigious Grammar",
+        "subTopic": "Ambigious Grammar",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590129a3_9-mix-in-butter-for-frosting-yellow-cake/9-mix-in-butter-for-frosting-yellow-cake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 12,
-        "shortDescription": "Left Recursion",
+        "subTopic": "Left Recursion",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590129a5_10-mix-in-melted-chocolate-for-frosting-yellow-cake/10-mix-in-melted-chocolate-for-frosting-yellow-cake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 13,
-        "shortDescription": "Right Recursion",
+        "subTopic": "Right Recursion",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590129ad_17-frost-all-around-cake-yellow-cake/17-frost-all-around-cake-yellow-cake.mp4",
         "thumbnailURL": ""
       }
     ],
-    "servings": 8,
+    "duration": 8,
     "image": ""
   },
   {
     "id": 4,
     "name": "Network Programming",
-    "ingredients": [
+    "faculties": [
       {
-        "quantity": 306,
-        "measure": "IT",
-        "ingredient": "Ms. Rajini Sharma"
+        "code": 306,
+        "department": "IT",
+        "faculty": "Ms. Rajini Sharma"
       },
       {
-        "quantity": 306,
-        "measure": "MECH",
-        "ingredient": "Mr. Peanut Butter"
+        "code": 306,
+        "department": "MECH",
+        "faculty": "Mr. Peanut Butter"
       }
     ],
-    "steps": [
+    "topics": [
       {
         "id": 0,
-        "shortDescription": "Introduction",
+        "subTopic": "Introduction",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdae8_-intro-cheesecake/-intro-cheesecake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 1,
-        "shortDescription": "UNIX OS",
+        "subTopic": "UNIX OS",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 2,
-        "shortDescription": "Process Control",
+        "subTopic": "Process Control",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb1d_2-form-crust-to-bottom-of-pan-cheesecake/2-form-crust-to-bottom-of-pan-cheesecake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 3,
-        "shortDescription": "TCP/ IP Protocol",
+        "subTopic": "TCP/ IP Protocol",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 4,
-        "shortDescription": "Case Study",
+        "subTopic": "Case Study",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 5,
-        "shortDescription": "Sockets",
+        "subTopic": "Sockets",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb3a_3-mix-sugar-salt-together-cheesecake/3-mix-sugar-salt-together-cheesecake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 6,
-        "shortDescription": "Byte Ordering",
+        "subTopic": "Byte Ordering",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb55_4-add-eggs-mix-cheesecake/4-add-eggs-mix-cheesecake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 7,
-        "shortDescription": "Threads",
+        "subTopic": "Threads",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb72_5-mix-vanilla-cream-together-cheesecake/5-mix-vanilla-cream-together-cheesecake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 8,
-        "shortDescription": "IPV4 and IPV6",
+        "subTopic": "IPV4 and IPV6",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb88_6-add-the-batter-to-the-pan-w-the-crumbs-cheesecake/6-add-the-batter-to-the-pan-w-the-crumbs-cheesecake.mp4",
         "thumbnailURL": ""
       },
       {
         "id": 9,
-        "shortDescription": "Remote Procedure call",
+        "subTopic": "Remote Procedure call",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 10,
-        "shortDescription": "Mutex",
+        "subTopic": "Mutex",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 11,
-        "shortDescription": "File System",
+        "subTopic": "File System",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "",
         "thumbnailURL": ""
       },
       {
         "id": 12,
-        "shortDescription": "Debugging",
+        "subTopic": "Debugging",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdbac_9-finished-product-cheesecake/9-finished-product-cheesecake.mp4",
         "thumbnailURL": ""
       }
     ],
-    "servings": 8,
+    "duration": 8,
     "image": ""
   }
 ]
